@@ -1,5 +1,5 @@
 # PCA
-Principal Component Analysis on Iris dataset using NumPy
+Principal Component Analysis from scratch on Iris dataset 
 
 The aim of this project is to 
 -Implement and apply PCA from scratch using NumPy in Python
